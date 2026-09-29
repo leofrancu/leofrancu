@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="324" viewBox="0 0 1000 324" fill="none" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a1020"/><stop offset="1" stop-color="#10204a"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.1" fill="#ffffff" fill-opacity="0.045"/>
+  </pattern>
+</defs>
+<style>
+  .f{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'Liberation Sans', sans-serif;} .m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(5.5);opacity:0}}
+  .in{animation:fade .9s ease-out both} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s}
+  .pulse{animation:pulse 3.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+  
+</style>
+<rect x="0.5" y="0.5" width="999" height="323" rx="16" fill="url(#bg)" stroke="#22325c"/>
+<rect x="0.5" y="0.5" width="999" height="323" rx="16" fill="url(#dots)"/>
+<rect x="40" y="34" width="4" height="18" rx="2" fill="#3b82f6"/><text x="54" y="48" class="f" font-size="13" font-weight="700" fill="#7fb0ff" letter-spacing="1.8">EDUCATION</text><text x="74" y="88" class="f" font-size="19" font-weight="700" fill="#f1f5f9">Università degli Studi di Torino</text><text x="960" y="88" class="f" font-size="14" fill="#8b9bb8" text-anchor="end">09/2022 – 11/2026 · Turin</text><text x="74" y="113" class="f" font-size="16" font-weight="600" fill="#7fb0ff">BSc in Computer Science</text><text x="74" y="140" class="f" font-size="15.5" fill="#c7d2e3">Core computer science fundamentals alongside applied areas such as databases, web development, and software</text><text x="74" y="162" class="f" font-size="15.5" fill="#c7d2e3">engineering.</text><text x="74" y="220" class="f" font-size="19" font-weight="700" fill="#f1f5f9">Istituto di Istruzione Superiore Primo Levi</text><text x="960" y="220" class="f" font-size="14" fill="#8b9bb8" text-anchor="end">09/2017 – 07/2022 · Turin</text><text x="74" y="245" class="f" font-size="16" font-weight="600" fill="#7fb0ff">Scientific High School Diploma</text><text x="74" y="272" class="f" font-size="15.5" fill="#c7d2e3">Final grade 100/100. Focus on natural sciences, mathematics, and statistics. Regional-level participant in the Math</text><text x="74" y="294" class="f" font-size="15.5" fill="#c7d2e3">and Physics Olympiads.</text><line x1="48" y1="82" x2="48" y2="214" stroke="#2a3e70" stroke-width="2"/><circle cx="48" cy="82" r="7" fill="#0a1020" stroke="#3b82f6" stroke-width="2.5"/><circle cx="48" cy="82" r="3" fill="#7fb0ff"/><circle cx="48" cy="214" r="7" fill="#0a1020" stroke="#5f6f8f" stroke-width="2.5"/></svg>
