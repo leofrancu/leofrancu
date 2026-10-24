@@ -20,13 +20,19 @@
 
 What I enjoy most is taking large, messy, real-world data and finding the patterns that explain what's going on in it.
 
-My thesis is where that shows most clearly. I'm a final-year Computer Science student at the Università degli Studi di Torino, graduating in November 2026. Through a university research project approved by Meta, I work with the Meta Content Library to study how people communicate in Facebook groups during emergencies: how they coordinate and how information spreads from one group to another.
+I've recently started as an **Inventory Data Analyst Intern at Faiveley Transport**, a Wabtec company, where I get to do exactly that with real operational data.
+
+I'm a final-year Computer Science student at the Università degli Studi di Torino, graduating in November 2026, and my thesis is where this shows most clearly. Through a research project approved by Meta, I worked with the Meta Content Library on more than 500,000 posts from Facebook groups, studying how people respond emotionally during emergencies and how that response changes with what a post says, when it is published and how much warning people had.
 
 My coursework has followed the same thread: relational database design, statistical analysis at scale, distributed systems, and software engineering methodology. My long-term goal is to specialize technically in data analysis.
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/thesis-en-dark.svg"><img src="assets/thesis-en-light.svg" width="100%" alt="Featured research — BSc thesis: User Behavior in Facebook Groups During Emergencies"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-en-dark.svg"><img src="assets/experience-en-light.svg" width="100%" alt="Currently — Inventory Data Analyst Intern at Faiveley Transport, a Wabtec company (Piossasco, Turin), since October 2026"></picture>
+
+<br><br>
+
+<a href="https://github.com/leofrancu/tesi-gruppi-facebook-emergenze"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/thesis-en-dark.svg"><img src="assets/thesis-en-light.svg" width="100%" alt="Featured research — BSc thesis: Emotional Dynamics and Sharing Networks in Facebook Groups During Emergencies. A comparative analysis of sudden-onset and forecastable events"></picture></a>
 
 ### Selected projects
 
@@ -71,13 +77,19 @@ My coursework has followed the same thread: relational database design, statisti
 
 Quello che mi appassiona di più è prendere dati reali, grandi e disordinati, e trovare i pattern che spiegano cosa sta succedendo.
 
-La mia tesi è dove questo si vede meglio. Sono un laureando in Informatica all'Università degli Studi di Torino e mi laureo a novembre 2026. Grazie a un progetto di ricerca dell'ateneo approvato da Meta, lavoro con la Meta Content Library per studiare come le persone comunicano nei gruppi Facebook durante le emergenze: come si coordinano e come le informazioni si diffondono da un gruppo all'altro.
+Ho da poco iniziato un tirocinio come **Inventory Data Analyst Intern in Faiveley Transport**, azienda del gruppo Wabtec, dove posso fare proprio questo su dati operativi reali.
+
+Sono un laureando in Informatica all'Università degli Studi di Torino, mi laureo a novembre 2026, e la mia tesi è dove questa passione si vede meglio. Grazie a un progetto di ricerca approvato da Meta, ho lavorato con la Meta Content Library su oltre 500.000 post di gruppi Facebook, studiando come le persone reagiscono emotivamente durante le emergenze e come questa risposta cambia in base a cosa dice un post, a quando viene pubblicato e al preavviso di cui la popolazione ha disposto.
 
 Il mio percorso universitario ha seguito lo stesso filo: progettazione di database relazionali, analisi statistica su larga scala, sistemi distribuiti e metodologia di ingegneria del software. Il mio obiettivo di lungo periodo è specializzarmi tecnicamente nell'analisi dei dati.
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/thesis-it-dark.svg"><img src="assets/thesis-it-light.svg" width="100%" alt="Ricerca in evidenza — Tesi di laurea: Comportamento degli utenti nei gruppi Facebook durante le emergenze"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-it-dark.svg"><img src="assets/experience-it-light.svg" width="100%" alt="Attualmente — Inventory Data Analyst Intern presso Faiveley Transport, azienda del gruppo Wabtec (Piossasco, TO), da ottobre 2026"></picture>
+
+<br><br>
+
+<a href="https://github.com/leofrancu/tesi-gruppi-facebook-emergenze"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/thesis-it-dark.svg"><img src="assets/thesis-it-light.svg" width="100%" alt="Ricerca in evidenza — Tesi di laurea: Dinamiche emotive e reti di condivisione nei gruppi Facebook durante le emergenze. Un'analisi comparata tra eventi a insorgenza improvvisa e prevedibile"></picture></a>
 
 ### Progetti selezionati
 
